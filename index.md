@@ -15,3 +15,7 @@ int main(){
   printf("Hello World!");
 }
 ```
+
+- [X] First choice
+- [X] Correct choice
+- [ ] Choice
